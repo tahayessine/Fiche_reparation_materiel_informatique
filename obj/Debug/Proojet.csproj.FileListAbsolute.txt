@@ -1,0 +1,15 @@
+C:\Users\yessi\source\repos\Proojet\Proojet\bin\Debug\Proojet.exe.config
+C:\Users\yessi\source\repos\Proojet\Proojet\bin\Debug\Proojet.exe
+C:\Users\yessi\source\repos\Proojet\Proojet\bin\Debug\Proojet.pdb
+C:\Users\yessi\source\repos\Proojet\Proojet\obj\Debug\Proojet.csproj.AssemblyReference.cache
+C:\Users\yessi\source\repos\Proojet\Proojet\obj\Debug\Proojet.Properties.Resources.resources
+C:\Users\yessi\source\repos\Proojet\Proojet\obj\Debug\Proojet.csproj.GenerateResource.cache
+C:\Users\yessi\source\repos\Proojet\Proojet\obj\Debug\Proojet.csproj.CoreCompileInputs.cache
+C:\Users\yessi\source\repos\Proojet\Proojet\obj\Debug\Proojet.exe
+C:\Users\yessi\source\repos\Proojet\Proojet\obj\Debug\Proojet.pdb
+C:\Users\yessi\source\repos\Proojet\Proojet\obj\Debug\Proojet.Login.resources
+C:\Users\yessi\source\repos\Proojet\Proojet\obj\Debug\Proojet.Register.resources
+C:\Users\yessi\source\repos\Proojet\Proojet\obj\Debug\Proojet.MainForm.resources
+C:\Users\yessi\source\repos\Proojet\Proojet\obj\Debug\Proojet.Costumer.resources
+C:\Users\yessi\source\repos\Proojet\Proojet\obj\Debug\Proojet.Piece.resources
+C:\Users\yessi\source\repos\Proojet\Proojet\obj\Debug\Proojet.RepairForm.resources
